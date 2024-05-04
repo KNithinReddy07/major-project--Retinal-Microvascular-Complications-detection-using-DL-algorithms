@@ -7,7 +7,8 @@
 A novel approach to detect diabetic retinopathy using Xception, Densenet201,Inception V3 and IR-CNN from fundus images. The proposed model is evaluated on a pub- licly available dataset of fundus images.additionally conduct experiments with im- age enhancement and data augmentation methods to improve the performance of the proposed model.
 
 # DATASET:
-[https://www.kaggle.com/datasets/vuppalaadithyasairam/fundus-images-for-diabetic-retinopathy](url)
+https://www.kaggle.com/datasets/vuppalaadithyasairam/fundus-images-for-diabetic-retinopathy 
+
 # WORKFLOW:
 1. Importing the packages
 2. Exploring the dataset 

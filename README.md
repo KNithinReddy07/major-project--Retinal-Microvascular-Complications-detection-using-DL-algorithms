@@ -14,7 +14,7 @@ A novel approach to detect diabetic retinopathy using Xception, Densenet201,Ince
 2. Exploring the dataset 
 	- Diabetic Retinopathy Classification
 3. Image processing
-	- using ImageDataGenerator 
+	- using ImageDataGenerator
 		- Re-scaling the Image
 		- Shear Transformation
 		- Zooming the Image
